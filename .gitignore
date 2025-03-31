@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 dataset/
 data/
+resnet15_cifar10.pth
